@@ -100,6 +100,8 @@ export default function Home() {
           </div>
         </MaxWidthWrapper>
       </section>
+
+      
     </div>
   );
 }
